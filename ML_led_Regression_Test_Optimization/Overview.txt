@@ -1,0 +1,8 @@
+The project intends to design a Machine learning enabled solution which can scan through a set of application specific data:
+
+1. Application modules/components
+2. Module mapping i.e. integrations amongst the modules
+3. Regression test suite
+4. Release history
+
+and aid in identifying the optimal set of test cases for regression.

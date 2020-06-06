@@ -1,0 +1,29 @@
+Step 1: Create the folowing training datasets specific to an application:
+
+1. Module List (Module_List.csv)
+2. Module Mapping (Module_Mapping.csv)
+3. Test Cases (Test_Cases.csv)
+4. Release Data (Release_Data.csv)
+
+* The template names and also the column headers must not be changed.
+
+Step 2: Check-in the csv sheets in a folder.
+
+Step 3: Create the input release sheet (Input_Release.csv) with the new release name, implementation date, release type and list of modules impacted.
+
+*The template name and column headers must not be changed.
+
+Step 4: The input release sheet to be checked in the same folder as the training csv files.
+
+Step 5: Run the Python script (Data_PreProcessing.py) from command prompt as:
+
+* If the training csv files and input release csv are available in the same folder as the Python script:
+
+python Data_PreProcessing.py
+
+* If the training csv files and input release csv are available in a different folder:
+
+python Data_PreProcessing.py --Folder_path <<Training CSV path>>
+
+
+Step 6: The output csv file will be generated in the same folder as the training data and input release csv.

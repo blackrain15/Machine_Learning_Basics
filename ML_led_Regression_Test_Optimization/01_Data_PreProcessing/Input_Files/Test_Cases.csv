@@ -1,0 +1,358 @@
+Manual Test Case ID,Automated Test Case Id,Is Active,Complexity,Business Priority,Module Names
+Auto_Claims ReAssignment_TC010,,YES,HIGH,HIGH,Claims | NBS | Rating | Renewal
+Auto_Claims ReAssignment_TC011,,YES,HIGH,HIGH,Claims | NBS | Rating | Renewal
+Auto_Claims ReAssignment_TC013,,YES,HIGH,HIGH,Claims | NBS | Rating | Renewal
+Auto_Claims ReAssignment_TC014,,YES,HIGH,HIGH,Claims | NBS | Rating | Renewal
+Auto_Claims ReAssignment_TC019,,YES,HIGH,HIGH,Claims | NBS | Rating | Renewal | Rewrite
+Auto_Claims ReAssignment_TC021,,YES,HIGH,HIGH,Claims | NBS | Rating | Renewal | Rewrite
+Conviction_Rating_TC001,,YES,HIGH,HIGH,NBS | Rating | Renewal
+Conviction_Rating_TC004,,YES,HIGH,HIGH,NBS | PCH | Rating | Renewal | Rewrite
+Conviction_Rating_TC005,,YES,HIGH,HIGH,NBS | PCH | Rating | Renewal | Rewrite
+Conviction_Rating_TC006,,YES,HIGH,HIGH,NBS | PCH | Rating | Renewal | Rewrite
+Conviction_Rating_TC010,,YES,HIGH,HIGH,NBS | PCH | Rating | Renewal
+Conviction_Rating_TC011,,YES,HIGH,HIGH,NBS | Rating | Renewal | Rewrite
+Conviction_Rating_TC012,,YES,HIGH,HIGH,NBS | Rating | Renewal | Rewrite
+Conviction_Rating_TC013,,YES,MEDIUM,MEDIUM,NBS | Rating | Renewal | Rewrite
+Conviction_Rating_TC014,,YES,HIGH,HIGH,NBS | Rating | Renewal | Rewrite
+Conviction_Rating_TC023,,YES,HIGH,HIGH,NBS | PCH | Rating | Renewal | Rewrite
+License Class Mapping  _ Modify condition _ G1 to G,,YES,HIGH,HIGH,Client | NBS
+Rating_Claims_TC019,,YES,HIGH,HIGH,Claims | NBS | PCH | Rating
+Rating_Discounts_MultiVehilces_NBQ_TC001,,YES,HIGH,HIGH,Halcion Upload | NBS | Rating
+Rating_Discounts_MultiVehilces_PCH_TC003,,YES,HIGH,HIGH,Halcion Upload | NBS | PCH | Rating
+Rating_Discounts_MultiVehilces_RII_TC004,,YES,MEDIUM,MEDIUM,Halcion Upload | NBS | Rating | Rewrite
+Rating_Discounts_MultiVehilces_RWE_TC005,,YES,HIGH,HIGH,Halcion Upload | NBS | PCH | Rating | Renewal | Rewrite
+Rating_Discounts_Retiree_PCH_TC002,,YES,HIGH,HIGH,Halcion Upload | NBS | PCH | Rating
+Rating_Discounts_TheftAlarm_TC001,,YES,HIGH,HIGH,NBS | Rating | Rewrite
+Rating_Discounts_Winter Tire_TC003,,YES,HIGH,HIGH,Halcion Upload | Rating
+Rating_DriverAssignment_TC035,,YES,HIGH,HIGH,Entity Management | PCH | Rating | Renewal | Rewrite
+Rating_DriverAssignment_TC037,,YES,HIGH,HIGH,Entity Management | Rating | Renewal | Rewrite
+Rating_DriverAssignment_TC038,,YES,HIGH,HIGH,Entity Management | PCH | Rating | Renewal | Rewrite
+Rating_DriverAssignment_TC039,,YES,HIGH,HIGH,Entity Management | PCH | Rating | Renewal
+Rating_DriverAssignment_TC040,,YES,HIGH,HIGH,Cancellation | Entity Management | PCH | Rating | Reinstate
+Rating_Driving_Record_TC040,,YES,HIGH,HIGH,Entity Management | Rating | Renewal | Rewrite
+Rating_Driving_Record_TC060,,YES,HIGH,HIGH,PCH | Rating | Renewal | Risk
+Rating_DrivingRecord_CR8045_TC003,,YES,HIGH,HIGH,PCH | Rating | Renewal | Risk
+Rating_DrivingRecord_CR8045_TC006,,YES,HIGH,HIGH,PCH | Rating | Renewal | Risk
+Rating_DrivingRecord_CR8045_TC010,,YES,HIGH,HIGH,PCH | Rating | Renewal | Risk
+Rating_DrivingRecord_CR8045_TC019,,YES,HIGH,HIGH,Halcion Upload | PCH | product catalogue | Rating | Renewal | Risk | Two Term
+Rating_DrivingRecord_CR8045_TC020,,YES,LOW,HIGH,Halcion Upload | Lapse | Rating | Renewal | Risk | Two Term | Unlapse
+Rating_DrivingRecord_CR8045_TC021,,YES,HIGH,HIGH,Halcion Upload | Lapse | PCH | product catalogue | Rating | Renewal | Risk | Two Term | Unlapse
+Rating_DrivingRecord_CR8045_TC022,,YES,HIGH,HIGH,Halcion Upload | PCH | product catalogue | Rating | Renewal | Risk | Two Term
+Rating_Endorsements_Additional_ENDTS_Premium_Validation_TC001,,YES,HIGH,HIGH,Entity Management | PCH | product catalogue | Rating | Renewal | Rewrite | Two Term
+Rating_Endorsements_ApplyLimitedGlassCoverage_TC001,,YES,HIGH,HIGH,PCH | product catalogue | Rating
+Rating_Endorsements_Damage to Non_Owned Automobile_TC001,,YES,HIGH,HIGH,product catalogue | Rating | Renewal | Risk
+Rating_Endorsements_DependatnCareDCB_TC001,,YES,HIGH,HIGH,Client | Halcion Upload | product catalogue | Rating | Renewal
+Rating_Endorsements_DetermineCaregiverHouseHomeMaintenanceWCB_TC002,,YES,HIGH,HIGH,Client | Halcion Upload | product catalogue | Rating | Renewal
+Rating_Endorsements_MRC_TC001,,YES,HIGH,HIGH,Halcion Upload | NBS | product catalogue | Rating
+Rating_Endorsements_MRM_TC002,,YES,HIGH,HIGH,Halcion Upload | NBS | product catalogue | Rating
+Rating_Endorsements_MRX MRC CodePCH_TC028,,YES,HIGH,HIGH,PCH | product catalogue | Rating
+Rating_Endorsements_MRXMRMCodeRenewal_TC027,,YES,HIGH,HIGH,product catalogue | Rating | Renewal
+Rating_Endorsements_NewComboCodesMRWMMW_TC058,,YES,HIGH,HIGH,Halcion Upload | product catalogue | Rating | Renewal
+Rating_GRADOGRAD_Discounts_PCH_TC006,,YES,HIGH,HIGH,Claims | Halcion Upload | PCH | product catalogue | Rating
+Rating_GRADOGRAD_Discounts_RWE_TC013,,YES,HIGH,HIGH,Halcion Upload | NBS | product catalogue | Rating | Renewal | Rewrite | Two Term
+Rating_GRADOGRADCR_Discounts_PCH_TC004,,YES,HIGH,HIGH,Halcion Upload | PCH | product catalogue | Rating
+Rating_ON Reform_MinorClaims_TC001,,YES,HIGH,HIGH,Claims | NBQ | NBS | PCH | product catalogue | Rating
+Rating_ON Reform_MinorClaims_TC002,,YES,HIGH,HIGH,Claims | Halcion Upload | NBQ | NBS | product catalogue | Rating
+Rating_ONReform_Deductibles_TC011,,YES,HIGH,HIGH,PCH | product catalogue | Rating
+Rating_Premium_Deviation_TC005,,YES,HIGH,HIGH,PCH | product catalogue | Rating | Renewal | Two Term
+Rating_Premium_Deviation_TC009,,YES,HIGH,HIGH,NBS | product catalogue | Rating | Renewal | Two Term
+Rating_Premium_Deviation_TC015,,YES,HIGH,HIGH,product catalogue | Rating | Renewal | Risk
+Rating_Premium_Deviation_TC036,,YES,HIGH,HIGH,PCH | product catalogue | Rating | Risk
+Rating_Premium_Deviation_TC041,,YES,HIGH,HIGH,Halcion Upload | PCH | product catalogue | Rating | Renewal
+RSP_Eligibility_TC001,,YES,HIGH,HIGH,NBS | Rsp
+RSP_Eligibility_TC005,,YES,HIGH,HIGH,Rewrite | Rsp
+RSP_Eligibility_TC010,,YES,HIGH,HIGH,NBS | Rsp
+RSP_Eligibility_TC023,,YES,HIGH,HIGH,PCH | Rsp
+RSP_Eligibility_TC024,,YES,HIGH,HIGH,PCH | Rsp
+RSP_Potential_TC001,,YES,MEDIUM,MEDIUM,NBS | Renewal | Rsp
+RSP_Potential_TC002,,YES,HIGH,HIGH,NBS | Renewal | Rsp
+RSP_Qualified_TC017,,YES,HIGH,HIGH,Rsp
+RSP_Qualified_TC023,,YES,HIGH,HIGH,Rsp
+RSP_Qualified_TC027,,YES,HIGH,HIGH,Rsp
+TC 000_Product Catalog_ PPV_Jevco_AL10 _ Liability is removed with presence of an international driver_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue
+TC 004_Product Catalog_ PPV_Jevco_AB10 _Reinstatement of Third Party Liability coverage _ reapply Standard Benefits_PCH,,YES,HIGH,HIGH,PCH | product catalogue
+TC 005_Product Catalog_ PPV_Jevco_AB10 _Add Vehicle _ apply Standard Benefits_PCH,,YES,HIGH,HIGH,PCH | product catalogue | Risk
+TC 006_Product Catalog_ PPV_Jevco_AL10 _ Liability limit should be the same on all risks _ update limit_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC 007_Product Catalog_ PPV_Jevco_AB10 _ Remove liability _ automatically remove Standard Benefits_RWE,,YES,HIGH,HIGH,product catalogue | Renewal | Risk
+TC 011_Product Catalog_ PPV_Jevco_AL10 _ Liability limit should be the same on all risks _ update limit when international driver added_Renewal,,YES,HIGH,HIGH,product catalogue | Rewrite
+TC_001_PPV_ Lapse_Client File Updated_flag for lapse current term present_PCH,,YES,HIGH,HIGH,Lapse
+TC_001_PPV_Amend existing Quote_NBQ,,YES,HIGH,HIGH,Client | Entity Management | NBQ
+TC_001_PPV_Obtain New Quotation_NBQ,,YES,HIGH,HIGH,Client | NBQ
+TC_001_PPV_Save_Draft_Renewal,,YES,MEDIUM,HIGH,Draft | Renewal
+TC_002_PPV_Lapse_Client File Updated_Renewed cancelled term is present_PCH,,YES,HIGH,HIGH,Client | Lapse | PCH | Risk | Two Term
+TC_003_PPV_Subsequent contract to lapse_PCH,,YES,HIGH,HIGH,Lapse | PCH | Risk
+TC_005_PPV_cannot save draft after saving the transaction_Renewal,,YES,MEDIUM,HIGH,Draft | Renewal
+TC_007_PPV_Flag for lapse_Unlapse_Renewal_PCH,,YES,HIGH,HIGH,Client | Lapse | PCH | Risk | Two Term
+TC_007_PPV_No rights to amend a transaction initiated by an internal employee_External_NBS,,YES,MEDIUM,MEDIUM,Client | NBS
+TC_009_PPV_Modified insured client file_NBS,,YES,MEDIUM,MEDIUM,Client | NBS
+TC_011_PPV_ Lapse_Pending policy present_PCH,,YES,MEDIUM,HIGH,Lapse | PCH | Risk
+TC_013_PPV_Terminated risk reassign _NBQ_Internal,,YES,MEDIUM,HIGH,NBQ | Risk
+TC_015_BP_PPV_Create Action_Add Claim_Internal_NBQ,,YES,MEDIUM,HIGH,NBQ
+TC_017_PPV_able to do Policy Change  transaction_after lapse_PCH,,YES,HIGH,HIGH,Lapse | PCH | Risk | Two Term
+TC_028_PPV_Save_Transaction_NBS,,YES,LOW,MEDIUM,Client | NBS
+TC000_UC_Reissue Contract_Basic Path_RII,,YES,HIGH,HIGH,Client | NBS | Rewrite
+TC001_ PPV_ Complementary Info_NBQ,,YES,HIGH,HIGH,NBQ | Risk
+TC001_2 Lessors_Print OAF1_NBS,,YES,HIGH,HIGH,NBS | Printing
+TC001_Basic Path_NBQ_PPV,,YES,HIGH,HIGH,Entity Management | NBQ
+TC001_Change Contract UC_AF_Accessed new term of a renewed contract with a discrepancy in driver lists between two terms_PCH,,YES,HIGH,HIGH,PCH | Two Term
+TC001_Manage Drivers_BP_NBQ,,YES,HIGH,HIGH,Client | Entity Management | NBQ
+TC001_PPV _ Merged Quote to Policy _ BP _ Activation of a Draft _ PCH,,YES,HIGH,HIGH,Draft | Merge Quote | PCH
+TC001_PPV_Abeyance_NBS,,YES,HIGH,HIGH,Halcion Upload | NBS
+TC001_PPV_Abeyance_NBS_Copy_1,,YES,HIGH,HIGH,Halcion Upload | NBS
+TC001_PPV_Accessed new term of a renewed contract with a discrepancy in interested party lists between two terms_Lease_XLN,,YES,HIGH,HIGH,Cancellation | Lapse | Risk
+TC001_PPV_Add invalid client as a driver_PCH,,YES,HIGH,HIGH,Client | Entity Management | NBS | PCH
+TC001_PPV_Adding new vehicle_VIN_NBQ,,YES,LOW,LOW,NBQ | Risk
+TC001_PPV_Basic Path_Delete transaction_NBS,,YES,HIGH,HIGH,NBS
+TC001_PPV_BasicPath_Delete Orphan Client,,YES,MEDIUM,HIGH,Client | PCH | Renewal
+TC001_PPV_BP_Amend Action_Mailing Address_Internal_NBQ,,YES,MEDIUM,MEDIUM,NBQ | UW Message
+TC001_PPV_BP_Create Assignment_Company Client_NBQ,,YES,MEDIUM,HIGH,NBQ | Risk
+TC001_PPV_BP_Manage Associated Client_Add associated client_No associated client present_LienholderPCH,,YES,MEDIUM,HIGH,Client | Entity Management | PCH
+TC001_PPV_BP_Submit a Change transaction_PCH,,YES,HIGH,HIGH,PCH
+TC001_PPV_BP_View Inforce Contract_NBS_Internal,,YES,HIGH,HIGH,NBS
+TC001_PPV_Client_Profile_One_Risk_Two_OwnersCompany_Individual_NBS,,YES,HIGH,HIGH,Client | Entity Management | Halcion Upload | NBS
+TC001_PPV_Consult Draft_Basic Path,,YES,HIGH,HIGH,NBS
+TC001_PPV_Consult_Trans_UC_BP_Consult_Trans_PCH_External,,YES,HIGH,HIGH,Journal
+TC001_PPV_Consult_Trans_UC_BP_Consult_Trans_PCH_External_Copy_1,,YES,HIGH,HIGH,Journal | NBS | PCH | Two Term
+TC001_PPV_Convert Qte to Contract _ NBS,,YES,HIGH,HIGH,NBS
+TC001_PPV_Copy a Quote _ NBQ,,YES,MEDIUM,MEDIUM,NBQ
+TC001_PPV_Define Associated Client_Clear address_NBS,,YES,LOW,HIGH,Client | NBS | Risk
+TC001_PPV_E2E_Risk_discrepancy_between_two_terms_RWL,,YES,HIGH,HIGH,NBS | Renewal | Two Term
+TC001_PPV_Flag_for_Lapse_and_Lapse_Reversal_PCH,,YES,HIGH,HIGH,Lapse | NBS | PCH | Two Term
+TC001_PPV_Manage Additional Info_UC_BP_Create Action_Internal_NBS,,YES,MEDIUM,HIGH,NBS
+TC001_PPV_Manage Draft _ BP _ Activation of a Draft _ PCH,,YES,HIGH,HIGH,Draft | PCH
+TC001_PPV_Merge Quote_Manage Policy Named Insured_BP_Display all policy named insureds_NBS,,YES,HIGH,HIGH,Client | Entity Management | Merge Quote | NBS
+TC001_PPV_Minor claim reset_PCH,,YES,HIGH,HIGH,Claims | PCH
+TC001_PPV_Search_pending_transaction_External_NBS,,YES,HIGH,HIGH,NBS
+TC001_PPV_Single_Person_noSuffix_ClientExtended_NBS,,YES,HIGH,HIGH,NBS | Truncation
+TC001_PPV_UC Authorize Contract_AF_NBS_End transaction approval process,,YES,HIGH,HIGH,Authorize Contaract | NBS
+TC001_PPV_UC_Binder Letter_Generate Binder Letter_BP_NBS,,YES,HIGH,HIGH,NBS | Printing
+TC001_Product Catalog_ PPV_Jevco_PD10_no liability present _ able to apply all perils coverage_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC001_Product Catalog_ PPV_Jevco_PD20_no liability present _ able to apply collision coverage_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC001_Product Catalog_ PPV_Jevco_PD30_no liability present _ able to apply comprehensive coverage_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC001_Product Catalog_ PPV_Jevco_PD40_no liability present _ able to apply specified perils coverage_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC001_Quote Confirmation Letter_NBQ,,YES,HIGH,HIGH,NBQ | Printing
+TC001_Search_AF Search already performed_internal user_NBQ,,YES,HIGH,HIGH,Client | NBQ
+TC001_Submit a transaction with a discrepancy in interested party lists between two terms,,YES,HIGH,HIGH,Client | Entity Management | NBS | Rewrite | Two Term
+TC001_UC_Reinstate Contract_BP_Basic Path_REI,,YES,HIGH,HIGH,Cancellation | NBS | Reinstate
+TC001_UC_Reissue Contract_AF_ Accessed from Change Contract_RII,,YES,MEDIUM,MEDIUM,NBS | Rewrite
+TC001_UC_Reissue Contract_AF_Accessed new term...term not in force _RII,,YES,HIGH,HIGH,NBS | Rewrite
+TC001A_PPV_Basic Path_Capture Billing Informations_Internal_BR10374_BR7111_NBQ,,YES,MEDIUM,HIGH,Billing | NBQ
+TC002_Change Contract UC_AF_Accessed new term of a renewed contract with a discrepancy in interested party lists between two terms_PCH,,YES,MEDIUM,MEDIUM,PCH | Risk | Two Term
+TC002_Individual Client overflow_NBQ,,YES,HIGH,HIGH,Client | NBQ
+TC002_PPV_Accessed new term of a renewed contract with a discrepancy in interested party lists between two terms_Lienholder_XLN,,YES,HIGH,HIGH,Cancellation | Lapse | Risk
+TC002_PPV_AF_Submit a sameday Policy change transaction_PCH,,YES,HIGH,HIGH,PCH
+TC002_PPV_Lapse Contract UC_RWL_Transaction follow up_Insured requested,,YES,HIGH,HIGH,Lapse | Renewal | Two Term
+TC002_PPV_Lapse_and_Lapse_reversal_PCH,,YES,HIGH,HIGH,Cancellation | Lapse | NBS | PCH | Reinstate
+TC002_PPV_Manage Communication UC_NBQ_Client creation_Internal,,YES,MEDIUM,MEDIUM,Client | NBQ
+TC002_PPV_Multiple_Risks_Two_Unique_Owners_NBS,,YES,HIGH,HIGH,Client | NBS | Risk
+TC002_PPV_Search_pending_transaction_External_PCH,,YES,HIGH,HIGH,NBS | PCH
+TC002_PPV_UC Authorize Contract_AF_NBS_Save Transaction_Subsequent transaction to authorize,,YES,HIGH,HIGH,Authorize Contaract | NBS
+TC002_Product Catalog_ PPV_Jevco_E43L_Removing Depreciation Deduction for Specified Lessees can be added when new vehicle leased purchase date is less than 24 months has specifiedl perils coverage_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC002_Product Catalog_ PPV_Jevco_E47_Remove 1 of multiple optional AB coverages applied with Agreement not to Rely on SABS Priority of Payment Rules _ coverage remains_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC002_Search_AF Search already performed with quote number_NBQ,,YES,MEDIUM,MEDIUM,Client | NBQ
+TC002_Submit a transaction with a discrepancy in driver lists between two terms,,YES,HIGH,HIGH,Entity Management | NBS | Rewrite | Two Term
+TC002_UC_Reinstate Contract_AF_Accessed new term...term cancelled _REI,,YES,HIGH,HIGH,Cancellation | Entity Management | NBS | Reinstate | Renewal | Two Term
+TC002_UC_Reissue Contract_AF_Accessed previous term...term not in force _RII,,YES,HIGH,HIGH,Entity Management | NBS | Renewal | Rewrite | Two Term
+TC003_Change Contract UC_AF_Accessed new term of a renewed contract with a discrepancy in owner lists betweem two terms_PCH,,YES,HIGH,HIGH,PCH | Risk | Two Term
+TC003_PPV_Accessed new term of a renewed contract with a discrepancy in owner lists between two terms_XLN,,YES,HIGH,HIGH,Cancellation | Lapse | Risk
+TC003_PPV_AF_Inception date rewrite transaction_RII,,YES,HIGH,HIGH,Rewrite
+TC003_PPV_BP_Create Assignment_Individual client_NBQ,,YES,MEDIUM,HIGH,Client | PCH
+TC003_PPV_BP_Create Assignment_Individual client_NBQ_Copy_1,,YES,HIGH,HIGH,Client | Entity Management | NBQ
+TC003_PPV_Cancellation_for_in_force_policy_term_XLN_REI,,YES,HIGH,HIGH,Cancellation | Halcion Upload | NBS | Reinstate
+TC003_PPV_Define Associated Client_verify lessor delected during backdated policy change_RWE,,YES,HIGH,HIGH,Client | Entity Management | Rewrite | Risk | Two Term
+TC003_PPV_Lienholder_and_Lessor_NBS,,YES,HIGH,HIGH,Client | Entity Management | NBS
+TC003_PPV_Search_pending_transaction_External_Renewal,,YES,MEDIUM,MEDIUM,Client | NBS | Rewrite
+TC003_PPV_UC Authorize Contract_AF_NBS_Save Transaction_No Subsequent transaction to authorize,,YES,HIGH,HIGH,Authorize Contaract | NBS
+TC003_Product Catalog_ PPV_Jevco_E20_Coverage for Transportation Replacement is  available when collision is applied_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC003_Product Catalog_ PPV_Jevco_E43O_Removing Depreciation Deduction can be added when demo vehicle lienholder purchase date is less than 24 months has all perils coverage_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC003_Submit a transaction with a discrepancy in owner lists between two terms,,YES,LOW,LOW,Client | Two Term
+TC003_UC_Reinstate Contract_AF_Accessed new term...term lapsed _REI,,YES,HIGH,HIGH,Cancellation | NBS | Reinstate | Two Term
+TC004_Change Contract UC_AF_Accessed new term of a renewed contract with a discrepancy in risk lists between two terms_PCH,,YES,HIGH,HIGH,PCH | Risk | Two Term
+TC004_PPV_Accessed new term of a renewed contract with a discrepancy in driver lists between two terms_XLN,,YES,HIGH,HIGH,Cancellation | NBS | Two Term
+TC004_PPV_AF_Activate Draft_Internal_PCH,,YES,HIGH,HIGH,Draft | PCH
+TC004_PPV_AR_Pay_Schedule_NBS,,YES,HIGH,HIGH,NBS
+TC004_PPV_Declared_Chargebility_001_NBS_Renewal_PCH_XLN_REI,,YES,HIGH,HIGH,Cancellation | Claims | NBS | PCH | Reinstate | Rewrite
+TC004_PPV_Lapse Contract UC_RWL_Transaction follow up_Non Pay_Agency Bill,,YES,HIGH,HIGH,Lapse | Renewal | Two Term
+TC004_PPV_Search_pending_transaction_Internal_REI,,YES,MEDIUM,MEDIUM,Cancellation | NBS | Reinstate
+TC004_Product Catalog_ PPV_Jevco_E47_Remove Liability coverages on a vehicle with Agreement not to Rely on SABS Priority of Payment Rules _ coverage is removed from vehicle without standard AB coverage_NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC004_Submit a transaction with a discrepancy in risk lists between two terms,,YES,LOW,LOW,NBS | Rewrite | Risk | Two Term
+TC004_UC_Reinstate Contract_AF_Is being created...term in force _REI,,YES,MEDIUM,MEDIUM,Cancellation | NBS | Reinstate | Two Term
+TC005_Change Contract UC_AF_ Accessed new term of a renewed contract with a previous term not in force_PCH,,YES,HIGH,HIGH,PCH | Two Term
+TC005_No Address Found_BR28604_Internal_PCH,,YES,MEDIUM,MEDIUM,Client | NBS | PCH
+TC005_PPV_Accessed new term of a renewed contract with a discrepancy in risk lists between two terms_XLN,,YES,HIGH,HIGH,Cancellation | Entity Management | NBS | Reinstate | Renewal | Two Term
+TC005_PPV_Inforced policies_Term 12 months_ selected for Renewal_RWL,,YES,HIGH,HIGH,Cancellation | NBS | Reinstate | Renewal | Two Term
+TC005_PPV_Manage Communication UC_NBS_Read Only_most recent client file version_External_PCH,,YES,MEDIUM,MEDIUM,Client | NBS | PCH
+TC005_PPV_Search_pending_transaction_Internal_RWL,,YES,MEDIUM,MEDIUM,NBS | Renewal
+TC005_PPV_UC Authorize Contract_AF_NBS_Cancel action_No subsequent transaction to authorize,,YES,HIGH,HIGH,Authorize Contaract | NBS
+TC005_Submit a transaction with a deleted owner already deleted in last term,,YES,HIGH,HIGH,Client | Entity Management | NBS | PCH | Two Term
+TC005A_PPV_Inforced policies_Term 6 months_ selected for Renewal_RWL,,YES,MEDIUM,MEDIUM,Client | Entity Management | NBS | Renewal | Rewrite
+TC006_Change Contract UC_AF_ Accessed previous term of a renewed contract not in force_PCH,,YES,HIGH,HIGH,PCH | Two Term
+TC006_PPV_ Accessed new term of a renewed contract with a previous term not in force_XLN,,YES,HIGH,HIGH,Cancellation | NBS
+TC006_PPV_AF_Delete option is not available_Internal_NBS,,YES,HIGH,HIGH,Client | NBS
+TC006_PPV_Document_Print_003_NBS,,YES,HIGH,HIGH,NBS | Printing
+TC006_PPV_Minor claim reset_PCH,,YES,HIGH,HIGH,Claims | PCH
+TC006_PPV_Search_pending_transaction_Internal_RWE,,YES,MEDIUM,MEDIUM,NBS | Rewrite
+TC006_PPV_UC Authorize Contract_AF_NBS_System detects transaction must be reviewed_End of transactions,,YES,HIGH,HIGH,Authorize Contaract | NBS
+TC006_Product Catalog_ PPV_Jevco_E47_Add risk _ Agreement not to Rely on SABS Priority of Payment Rules _ automatically applied when optional AB coverage is applied_NBS,,YES,HIGH,HIGH,NBS | product catalogue | Risk
+TC006_System does not select cancelled policy for renewal_PPV_RWL,,YES,HIGH,HIGH,Renewal
+TC007_Change Contract UC_AF_Accessed renewed contract not started_PCH,,YES,HIGH,HIGH,PCH | Two Term
+TC007_PPV_Accessed previous term of a renewed contract not in force_XLN,,YES,HIGH,HIGH,Cancellation | NBS
+TC007_PPV_E2E_Cannot_add_delete_Interested_party_in_CT_previously_added_deleted_in_RT_RWL,,YES,HIGH,HIGH,NBS | Renewal | Two Term
+TC007_PPV_Inquiry_Access_003_NBS,,YES,HIGH,HIGH,NBS
+TC007_PPV_Search_pending_transaction_Internal_XLN,,YES,MEDIUM,MEDIUM,Cancellation | NBS
+TC007_PPV_UC Authorize Contract_BP_NBS,,YES,HIGH,HIGH,Authorize Contaract | NBS
+TC007_PPV_UC_History section validation_previous transaction_RWL,,YES,MEDIUM,HIGH,Renewal
+TC007_Product Catalog_ PPV_Jevco_EJPP_ Plus Pac replaces E20_E27 when they have been applied _NBQ,,YES,HIGH,HIGH,NBQ | product catalogue | Risk
+TC007_Risk address overflow_NBQ,,YES,HIGH,HIGH,Client | NBQ | Truncation
+TC008_Change Contract UC_AF_Is being created a Lapse with a renewal term not cancelled_PCH,,YES,HIGH,HIGH,Lapse | PCH | Two Term
+TC008_PPV_Copy a Contract _ NBQ,,YES,HIGH,HIGH,NBQ
+TC008_PPV_New_Field_Values_PAS_Policy_NBS,,YES,HIGH,HIGH,NBS | Rewrite
+TC008_PPV_UC Authorize Contract_BP_PCH,,YES,HIGH,HIGH,Authorize Contaract | PCH
+TC008C_PPV_Create policy_Direct Billing_One Payment_Debit Card_External_NBS,,YES,HIGH,HIGH,Billing | Halcion Upload | NBS
+TC009_Change Contract UC_AF_Is being created a Unlapse with a renewal term in force_PCH,,YES,HIGH,HIGH,Lapse | PCH | Two Term
+TC009_PPV_Couple_with_Same_Last_Name_noSuffix_Client_NBS,,YES,HIGH,HIGH,Client | NBS | Truncation
+TC009_PPV_Is being created a Cancellation with lapsed term_XLN,,YES,HIGH,HIGH,Cancellation | Lapse | Two Term
+TC009_PPV_Lapse Contract UC_RWL_Transaction follow up_Non Pay Of Withdrawals,,YES,HIGH,HIGH,Lapse | Renewal | Two Term
+TC009_PPV_PAS_Origin_Message_001_NBS,,YES,MEDIUM,MEDIUM,NBS
+TC009_PPV_UC Authorize Contract_BP_Renewal,,YES,HIGH,HIGH,Authorize Contaract | Rewrite
+TC01_PPV_Compare Transactions_Merge Quote_PCH,,YES,HIGH,HIGH,Merge Quote | PCH
+TC01_PPV_Consult Quotation_BP_Systemnotifies user_NBQ,,YES,HIGH,HIGH,NBQ | Risk
+TC01_PPV_Consult_History_Trans_UC_ConsultQuoteHistory_AF_PCH_EXT,,YES,HIGH,HIGH,Journal | PCH
+TC010_PPV_Confirmation Letter_REN,,YES,HIGH,HIGH,Printing | Renewal
+TC010_PPV_PAS_Origin_Message_002_NBS,,YES,HIGH,HIGH,NBS
+TC010_Product Catalog_ PPV_Jevco_E27_Liability for damage to Non_Owned Automobiles is remains when liability coverage is removed_PCH,,YES,HIGH,HIGH,PCH | product catalogue | Risk
+TC010_System does not select policy with pending transaction for renewal_RWL,,YES,HIGH,HIGH,Renewal
+TC011_PPV_Couple_with_DIFF_Last_Name_withSuffix_Client_IP_Extended_Driver_Lessor_Lien_NBS,,YES,HIGH,HIGH,Client | Entity Management | NBS | Truncation
+TC011_PPV_Lapse Contract UC_RWL_Transaction follow up_Other Reason Not Listed,,YES,HIGH,HIGH,Lapse | Renewal | Two Term
+TC011_PPV_PAS_Origin_Message_003_NBS,,YES,HIGH,HIGH,NBS
+TC012_PPV_Add Private Driver_PCH,,YES,MEDIUM,MEDIUM,Client | PCH
+TC012_PPV_Create Policy_Direct Billing_3 Payment_Post Dated Cheque_External,,YES,HIGH,HIGH,Billing | Halcion Upload | NBQ | NBS
+TC012_Rating_TwoTerm_Add_Driver_RT,,YES,HIGH,HIGH,Halcion Upload | NBS | product catalogue | Rating | Renewal | Rewrite | Two Term
+TC013_PPV_Lapse Contract UC_NBS_Client versioning_Client version not updated.,,YES,MEDIUM,HIGH,Client | Lapse | NBS
+TC015_OccDriver Name overflow_Renewal,,YES,HIGH,HIGH,NBS | Rewrite | Truncation
+TC015_PPV_SMART_Policy_Origin_001_NBS,,YES,MEDIUM,MEDIUM,Client | NBS
+TC015_Pre Renewal_10 Convictions in PAS_2 additional_convictions,,YES,HIGH,HIGH,Client | NBS | Renewal
+TC016_PPV_Estate_Morethan_Person_withSuffix_Client_NBS,,YES,MEDIUM,MEDIUM,Client | NBS | Truncation
+TC016_PPV_Lapse Contract UC_NBS_Correct or refer,,YES,MEDIUM,HIGH,Lapse | NBS
+TC016_PPV_UC Authorize Contract_AF_NBS_Transaction only requiring authorization,,YES,HIGH,HIGH,Authorize Contaract | NBS
+TC017_PPV_Type Not Allowed_Renewal,,YES,MEDIUM,MEDIUM,Client | Rewrite
+TC019_Risk address overflow_PCH,,YES,HIGH,HIGH,NBS | PCH | Risk | Truncation
+TC02_PPV_Consult_History_Trans_UC_BP_RWL_EXT,,YES,HIGH,HIGH,Journal
+TC021_Merge Quote_BP_Auto quote to Auto quote,,YES,LOW,LOW,Merge Quote | NBQ | Risk
+TC021_PPV_Estate_Single_Person_withSuffix_IP_NBS,,YES,HIGH,HIGH,Client | NBS | Truncation
+TC022_Merge Quote_BP_Auto quote to Auto policy,,YES,HIGH,HIGH,Client | Merge Quote | NBS | Risk
+TC022_Rating_TwoTerm_Delete_Coverage_CT,,YES,HIGH,HIGH,Halcion Upload | NBS | product catalogue | Rating | Renewal | Rewrite | Two Term
+TC026_PPV_Remove driver_PCH,,YES,MEDIUM,MEDIUM,Client | PCH
+TC031_PPV_Civic_Address_Client_IP_Lessor_Lien_NBS,,YES,HIGH,HIGH,Client | Entity Management | NBS | Truncation
+TC031_Rating_TwoTerm_Driver_assignment_RT,,YES,HIGH,HIGH,Entity Management | NBS | product catalogue | Rating | Renewal | Rewrite | Two Term
+TC032_PPV_Billing_Halcion_One Pay_NBS_Internal,,YES,HIGH,HIGH,Billing | Halcion Upload | NBS
+TC033_PPV_PO_BOX_with_Civic_Address_Client_IP_Lessor_Lien_NBS,,YES,MEDIUM,MEDIUM,Client | Entity Management | NBS | Truncation
+TC034_Same last name_over flow_RWE,,YES,HIGH,HIGH,Client | Entity Management | NBS | Truncation
+TC035_PPV_NON PAY OF WITHDRAWALS_XLN,,YES,HIGH,HIGH,Cancellation
+TC038_backtracking_PCH,,YES,MEDIUM,MEDIUM,Client | Entity Management | NBS | PCH | Truncation
+TC038_PPV_SUB_SERV_with_Civic_Address_Extended_Client_IP_Lessor_Lien_NBS,,YES,HIGH,HIGH,Client | Entity Management | NBS | Truncation
+TC039_PPV_Edit Driver,,YES,MEDIUM,MEDIUM,Client
+TC040_UC_BP_Cancel Contract_New Business Cancel_Prorata_XLN,,YES,HIGH,HIGH,Cancellation
+TC041_UC_BP_Cancel Contract_New Business Cancel_Short Rate_XLN,,YES,HIGH,HIGH,Cancellation
+TC047_Change Contract UC_AF_Amend existing Flag for Lapse transaction_PCH,,YES,HIGH,HIGH,Lapse
+TC047_PPV_Risk_Civic_Address_NBS,,YES,HIGH,HIGH,Client | Entity Management | NBS | Truncation
+TC060_PPV_Generate Billing_Current Payment_Quote_1 payment_Money Order_NBQ,,YES,HIGH,HIGH,Billing | NBQ
+TC087_PPV_Care_of_Client_IP_NBS,,YES,MEDIUM,MEDIUM,Client | NBS | Truncation
+TC090_PPV_Name_Client_Truncation_RII,,YES,HIGH,HIGH,Client | NBS | Truncation
+TC095_PPV_Lessor_Address_Truncation_PCH,,YES,HIGH,HIGH,Client | NBS | PCH | Truncation
+TC100_PPV_IP_Address_Truncation_NBS,,YES,HIGH,HIGH,Client | NBS | Truncation
+TS001_REG_Jevco UW Message A1000_1a_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS002_REG_Jevco UW Message A1000_1a_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS003_REG_Jevco UW Message A1000_1a_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS004_REG_Jevco UW Message A1000_1b_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS005_REG_Jevco UW Message A1000_1b_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS006_REG_Jevco UW Message A1000_1b_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS007_REG_Jevco UW Message A1000_1c_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS008_REG_Jevco UW Message A1000_1c_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS009_REG_Jevco UW Message A1000_1c_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS010_REG_Jevco UW Message A1001_2a_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS012_REG_Jevco UW Message A1001_2a_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS014_REG_Jevco UW Message A1001_2a_5_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS018_REG_Jevco UW Message A1001_2c_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS019_REG_Jevco UW Message A1001_2b_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS020_REG_Jevco UW Message A1001_2d_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS021_REG_Jevco UW Message A1001_2d_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS022_REG_Jevco UW Message A1001_2e_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS023_REG_Jevco UW Message A1001_2e_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS024_REG_Jevco UW Message A1001_2f_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS025_REG_Jevco UW Message A1001_2g_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS027_REG_Jevco UW Message A1002_3c_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS028_REG_Jevco UW Message A1002_3c_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS029_REG_Jevco UW Message A1002_3c_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS030_REG_Jevco UW Message J1000_1b_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS031_REG_Jevco UW Message J1000_1b_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS034_REG_Jevco UW Message J1000_2a_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS035_REG_Jevco UW Message J1000_2e_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS036_REG_Jevco UW Message J1000_2g_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS037_REG_Jevco UW Message J1000_3a_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS038_REG_Jevco UW Message J1000_3b_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS039_REG_Jevco UW Message J1000_3b_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS040_REG_Jevco UW Message J1000_3d_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS041_REG_Jevco UW Message J1000_3e_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS042_REG_Jevco UW Message J1000_3f_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS043_REG_Jevco UW Message J1000_3f_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS044_REG_Jevco UW Message A1003_4a_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS045_REG_Jevco UW Message A1004_4b_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS046_REG_Jevco UW Message A1004_4b_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS047_REG_Jevco UW Message A1005_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS048_REG_Jevco UW Message A1006_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS049_REG_Jevco UW Message A1007_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS050_REG_Jevco UW Message A1008_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS051_REG_Jevco UW Message A1009_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS052_REG_Jevco UW Message A1011_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS053_REG_Jevco UW Message A1012_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS054_REG_Jevco UW Message A2000 _1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS055_REG_Jevco UW Message A2000 _2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS056_REG_Jevco UW Message A2000 _3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS057_REG_Jevco UW Message A2002_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS060_REG_Jevco UW Message A2004_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS061_REG_Jevco UW Message A2005_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS062_REG_Jevco UW Message A2007_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS063_REG_Jevco UW Message A2008_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS066_REG_Jevco UW Message A2013_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS067_REG_Jevco UW Message A2014_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS072_REG_Jevco UW Message A2018_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS073_REG_Jevco UW Message A2019_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS074_REG_Jevco UW Message A2020_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS078_REG_Jevco UW Message A2024_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS079_REG_Jevco UW Message A2025_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS081_REG_Jevco UW Message A2027_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS082_REG_Jevco UW Message A2029_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS083_REG_Jevco UW Message A2030_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS084_REG_Jevco UW Message A2031_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS088_REG_Jevco UW Message A2039_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS089_REG_Jevco UW Message A3000_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS090_REG_Jevco UW Message A3001_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS091_REG_Jevco UW Message A3008_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS092_REG_Jevco UW Message A3009_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS093_REG_Jevco UW Message A4000_1_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS094_REG_Jevco UW Message A4000_2a_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS095_REG_Jevco UW Message A4000_2b_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS096_REG_Jevco UW Message A4000_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS097_REG_Jevco UW Message A4000_4_NBQ,,YES,MEDIUM,MEDIUM,NBQ | UW Message
+TS098_REG_Jevco UW Message A4000_5_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS099_REG_Jevco UW Message A4000_6_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS100_REG_Jevco UW Message A4000_7_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS101_REG_Jevco UW Message A4000_8_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS102_REG_Jevco UW Message A4001_1_NBQ,,YES,MEDIUM,MEDIUM,NBQ | UW Message
+TS103_REG_Jevco UW Message A4001_2_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS104_REG_Jevco UW Message A4001_3_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS105_REG_Jevco UW Message A4001_4a_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS106_REG_Jevco UW Message A4001_4b_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS107_REG_Jevco UW Message A4002_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS108_REG_Jevco UW Message A4003_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS112_REG_Jevco UW Message A5001_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS113_REG_Jevco UW Message A5002_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS114_REG_Jevco UW Message A5003_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS118_REG_Jevco UW Message A5006_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS122_REG_Jevco UW Message A5010_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS126_REG_Jevco UW Message A5014_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS132_REG_Jevco UW Message A5021_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS134_REG_Jevco UW Message A5029_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS136_REG_Jevco UW Message A5039_NBQ,,YES,HIGH,HIGH,NBQ | UW Message
+TS137_REG_Jevco UW Message A6003_NBQ,,YES,HIGH,HIGH,NBQ | UW Message

@@ -175,6 +175,26 @@ def process_output_file(input_path = os.getcwd()+"/" ):
     
     other_TC_attributes = np.array(other_TC_attributes)
     
+    #Let us compute the overall risk score of each of the test cases - considering TC failure probability as well as impact of failure i.e. Priority and Severity
+    TC_risk_scores = []
+    max_failure_count = max(y_Output_TC_FailFreq[:,1]) #Stores the maximum count of failure a single test case has encountered
+    for i in range(len(other_TC_attributes)):
+        
+        if(other_TC_attributes[i,2]=='HIGH'):   #Assigning Weightages to High, Medium and Low Priority Test Cases
+            TC_priority = 0.3
+        elif(other_TC_attributes[i,2]=='MEDIUM'):
+            TC_priority = 0.2
+        else:
+            TC_priority = 0.1
+            
+        if(other_TC_attributes[i,3]=='HIGH'): #Assigning Weightages to High, Medium and Low Severity Test Cases
+            TC_severity = 0.3
+        elif(other_TC_attributes[i,3]=='MEDIUM'):
+            TC_severity = 0.2
+        else:
+            TC_severity = 0.1
+        
+        TC_risk_scores.append(TC_priority+TC_severity+y_OutputToPredStatus[i,0]+(y_Output_TC_FailFreq[i,1]/max_failure_count)) #Weighted sum of TC Failure Probability, Priority, Complexity and Count of prior failure gives the overall risk score
     
     #Create a Pandas DataFrame to append the TC Name, Auto. Script ID etc. as different columns
     prediction_sheet = pd.DataFrame(data = {'TC_Name' : y_OutputToPredTCNames[:,0], 
@@ -183,12 +203,13 @@ def process_output_file(input_path = os.getcwd()+"/" ):
                                            'Priority' : other_TC_attributes[:,2],
                                            'Severity' : other_TC_attributes[:,3],
                                            'Failure_Frequency' : y_Output_TC_FailFreq[:,1],
-                                           'TC_Failure_Probability' : y_OutputToPredStatus[:,0]}, 
-                                    columns = ['TC_Name','Auto_TC_ID','Status','Priority','Severity','Failure_Frequency','TC_Failure_Probability'])
+                                           'TC_Failure_Probability' : y_OutputToPredStatus[:,0],
+                                           'Risk Score': TC_risk_scores}, 
+                                    columns = ['TC_Name','Auto_TC_ID','Status','Priority','Severity','Failure_Frequency','TC_Failure_Probability', 'Risk Score'])
     
     
-    #Sort the dataframe based on descending values of TC failure probability
-    prediction_sheet.sort_values('TC_Failure_Probability', inplace= True, ascending = False)
+    #Sort the dataframe based on descending values of TC Risk Score
+    prediction_sheet.sort_values('Risk Score', inplace= True, ascending = False)
     
     #Write the pandas dataframe to an output CSV
     prediction_sheet.to_csv(input_path+"Prediction_sheet.csv", index=False)

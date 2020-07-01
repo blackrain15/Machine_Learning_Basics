@@ -1,29 +1,33 @@
-Step 1: Create the folowing training datasets specific to an application:
+Step 1: Perform data Pre-Processing on the input files (Module_List.csv, Module_Mapping.csv, Test_Cases.csv, Release_Data.csv, Input_Release) and generate the following file which can be fed to Machine learning code:
 
-1. Module List (Module_List.csv)
-2. Module Mapping (Module_Mapping.csv)
-3. Test Cases (Test_Cases.csv)
-4. Release Data (Release_Data.csv)
-
-* The template names and also the column headers must not be changed.
-
-Step 2: Check-in the csv sheets in a folder.
-
-Step 3: Create the input release sheet (Input_Release.csv) with the new release name, implementation date, release type and list of modules impacted.
-
-*The template name and column headers must not be changed.
-
-Step 4: The input release sheet to be checked in the same folder as the training csv files.
-
-Step 5: Run the Python script (Data_PreProcessing.py) from command prompt as:
-
-* If the training csv files and input release csv are available in the same folder as the Python script:
-
-python Data_PreProcessing.py
-
-* If the training csv files and input release csv are available in a different folder:
-
-python Data_PreProcessing.py --Folder_path <<Training CSV path>>
+Output_sheet.csv
 
 
-Step 6: The output csv file will be generated in the same folder as the training data and input release csv.
+Step 2: Check-in Test_Cases.csv, Release_Data.csv sheets in the same folder.
+
+Step 3: Run the Python script (Failure_Prediction.py) from command prompt as:
+
+* If the relevant csv files are available in the same folder as the Python script:
+
+python Failure_Prediction.py
+
+* If the relevant csv files are available in a different folder:
+
+python Failure_Prediction.py --Folder_path <<Training CSV path>>
+
+
+Step 4: The Prediction_sheet.csv file will be generated in the same folder with the following columns:
+
+TC_Name
+Auto_TC_ID
+Status	
+Priority
+Severity
+Failure_Frequency
+TC_Failure_Probability
+
+Step 5: TC_Failure_Probability column shows the probability of failure of each of the test cases in the current release. The Priority and Severity columns are indicative of the business impact pertaining to the test case failures. 
+
+Weighted summation of the column values indicate the overall risk scores (Probability of Failure x Impact of Failure).
+
+Based on the risk appetite, the user can decide which subset of the test cases to be considered for risk based testing. Depending upon the test coverage % to offer, a subset of tests can be selected and execution plan can be chalked out accordingly.
